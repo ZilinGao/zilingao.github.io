@@ -1,0 +1,16 @@
+# Site settings
+# For a project site deployed at https://zilingao.github.io/test-homepage/
+baseurl: "/test-homepage"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-email-protect
+
+# timezone: Asia/Shanghai
+
+collections:
+  - publications
+  - news
+  - showcase
+  - posts
