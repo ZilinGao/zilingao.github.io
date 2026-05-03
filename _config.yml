@@ -1,6 +1,6 @@
 # Site settings
 # For a project site deployed at https://zilingao.github.io/test-homepage/
-baseurl: "/test-homepage"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
