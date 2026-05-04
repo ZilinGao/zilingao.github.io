@@ -53,11 +53,22 @@
                                 <li>
                                     <div class="d-flex">
                                         <div>{{ item.name }}</div>
+                                        {% if item.location %}
+                                        <div class="ml-auto mt-auto no-break mr-3"><em>{{ item.location }}</em></div>
+                                        {% endif %}
+                                        {% if item.date %}
+                                        <div class="mt-auto no-break"><em>{{ item.date }}</em></div>
+                                        {% endif %}
+                                    </div>
+                                </li>
+                                <!-- <li>
+                                    <div class="d-flex">
+                                        <div>{{ item.name }}</div>
                                         {% if item.date %}
                                         <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
                                         {% endif %}
                                     </div>
-                                </li>
+                                </li> -->
                                 {% endfor %}
                             </ul>
                         </div>
