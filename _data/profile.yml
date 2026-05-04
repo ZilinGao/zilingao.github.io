@@ -71,19 +71,37 @@ academic_service:
 - name: Reviewer for CVPR, ICCV, IJCV, TIP, TNNLS, AAAI, and ACM MM
 - name: Teaching Assistant for the graduate-level Computer Vision course, Dalian University of Technology, 2020-2021
 
+# talks:
+# - name: Poster, NeurIPS
+#   location: Virtual
+#   date: Dec. 2021
+# - name: Spotlight, Machine Learning and Applications Workshop (MLA)
+#   location: Tianjin
+#   date: Nov. 2019
+# - name: Poster, Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+#   location: Guangzhou
+#   date: Dec. 2018
+# - name: Poster, Vision and Learning Seminar (VALSE)
+#   location: Dalian
+#   date: May 2018
+
 talks:
-- name: Poster, NeurIPS
+- venue: NeurIPS
+  type: Poster
   location: Virtual
-  date: Dec. 2021
-- name: Spotlight, Machine Learning and Applications Workshop (MLA)
+  year: 2021
+- venue: Machine Learning and Applications Workshop (MLA)
+  type: Spotlight + Poster
   location: Tianjin
-  date: Nov. 2019
-- name: Poster, Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+  year: 2019
+- venue: Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+  type: Poster
   location: Guangzhou
-  date: Dec. 2018
-- name: Poster, Vision and Learning Seminar (VALSE)
+  year: 2018
+- venue: Vision and Learning Seminar (VALSE)
+  type: Poster
   location: Dalian
-  date: May 2018
+  year: 2018
   
 awards:
 - name: CVPR 2025 Outstanding Reviewer
@@ -102,7 +120,7 @@ awards:
 #   date: 2017
 - name: 'CVPR 2017 Workshop iNaturalist Challenge, Fine-Grained Visual Categorization, 5th / 50 <a href="https://www.kaggle.com/competitions/inaturalist-challenge-at-fgvc-2017/overview" target="_blank">[web]</a>'
   date: 2017
-- name: Second Prize, China Undergraduate Mathematical Contest in Modeling
-  date: 2014
-- name: Meritorious Winner, Mathematical Contest in Modeling
+- name: Mathematical Contest in Modeling (MCM/ICM), Meritorious Winner
   date: 2015
+- name: China Undergraduate Mathematical Contest in Modeling, Second Prize
+  date: 2014
