@@ -72,13 +72,17 @@ academic_service:
 - name: Teaching Assistant for the graduate-level Computer Vision course, Dalian University of Technology
 
 talks:
-- name: Poster Presentation, NeurIPS, Virtual
+- name: Poster, NeurIPS
+  location: Virtual
   date: Dec. 2021
-- name: Spotlight and Poster Presentation, Machine Learning and Applications Workshop (MLA), Tianjin
+- name: Spotlight, Machine Learning and Applications Workshop (MLA)
+  location: Tianjin
   date: Nov. 2019
-- name: Poster Presentation of Top Conference/Journal Papers, Chinese Conference on Pattern Recognition and Computer Vision (PRCV), Guangzhou
+- name: Poster, Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+  location: Guangzhou
   date: Dec. 2018
-- name: Poster Presentation of Top Conference/Journal Papers, Vision and Learning Seminar (VALSE), Dalian
+- name: Poster, Vision and Learning Seminar (VALSE)
+  location: Dalian
   date: May 2018
   
 awards:
