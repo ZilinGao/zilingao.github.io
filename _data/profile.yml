@@ -70,17 +70,21 @@ experience:
 awards:
 - name: CVPR 2025 Outstanding Reviewer
   date: 2025
-- name: Excellent Doctoral Dissertation Special Scholarship, Dalian University of Technology
-  date: 2025
-- name: Excellent Doctoral Dissertation Scholarship, Dalian University of Technology
-  date: 2025
+- name: Special Scholarship for Outstanding Doctoral Dissertation (10 recipients university-wide)
+# Excellent Doctoral Dissertation Special Scholarship, Dalian University of Technology
+  date: 2024
+- name: Outstanding Doctoral Dissertation Scholarship (20 recipients university-wide)
+# Excellent Doctoral Dissertation Scholarship, Dalian University of Technology
+  date: 2023
 - name: Academic Star Nomination Award, Dalian University of Technology
-  date: 2024
-- name: Outstanding Graduate, Dalian University of Technology
-  date: 2024
-- name: CVPR 2017 Workshop iNaturalist Challenge, Fine-Grained Visual Categorization, 5th / 50
+  date: 2021
+# - name: Outstanding Graduate, Dalian University of Technology
+#   date: 2024
+# - name: CVPR 2017 Workshop iNaturalist Challenge, Fine-Grained Visual Categorization, 5th / 50
+#   date: 2017
+- name: 'CVPR 2017 Workshop iNaturalist Challenge, Fine-Grained Visual Categorization, 5th / 50 <a href="https://www.kaggle.com/competitions/inaturalist-challenge-at-fgvc-2017/overview" target="_blank">[web]</a>'
   date: 2017
 - name: Second Prize, China Undergraduate Mathematical Contest in Modeling
-  date: 2016
+  date: 2014
 - name: Meritorious Winner, Mathematical Contest in Modeling
-  date: 2016
+  date: 2015
