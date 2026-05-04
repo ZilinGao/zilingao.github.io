@@ -67,6 +67,20 @@ experience:
   position: Computer Vision Research
   date: Apr. 2019 - Jul. 2019
 
+academic_service:
+- name: Reviewer for CVPR, ICCV, IJCV, TIP, TNNLS, AAAI, and ACM MM
+- name: Teaching Assistant for the graduate-level Computer Vision course, Dalian University of Technology
+
+talks:
+- name: Poster Presentation, NeurIPS, Virtual
+  date: Dec. 2021
+- name: Spotlight and Poster Presentation, Machine Learning and Applications Workshop (MLA), Tianjin
+  date: Nov. 2019
+- name: Poster Presentation of Top Conference/Journal Papers, Chinese Conference on Pattern Recognition and Computer Vision (PRCV), Guangzhou
+  date: Dec. 2018
+- name: Poster Presentation of Top Conference/Journal Papers, Vision and Learning Seminar (VALSE), Dalian
+  date: May 2018
+  
 awards:
 - name: CVPR 2025 Outstanding Reviewer
   date: 2025
